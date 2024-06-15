@@ -24,3 +24,4 @@ in :root, we can set our global css variables. to create css variables, we use -
 if we want to use it, then we wil use it in following way. e.g, if we want to give background to card,
 .card {background-color:var(--dark-blue)}
 
+we used curby background image in the background.  
