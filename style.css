@@ -56,3 +56,37 @@ body {
 .order-description {
     line-height: 25px;
 }
+
+.proceed-button {
+    background-color: var(--bright-blue);
+    padding: 1rem 0;;
+    color: white;
+    box-shadow: 0 20px 30px -8px rgb(197, 189, 245);
+    width: 100%;
+    border: none;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 0.9rem;
+    border-radius: 12px;
+
+}
+
+.proceed-button:hover{
+    opacity: 0.8;
+}
+
+.cancel-button {
+    background-color: white;
+    color: var(--desaturated-blue);
+    border: none;
+    margin-top: 22px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.cancel-button:hover {
+    color: black;
+}
