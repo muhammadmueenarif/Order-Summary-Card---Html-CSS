@@ -25,3 +25,5 @@ if we want to use it, then we wil use it in following way. e.g, if we want to gi
 .card {background-color:var(--dark-blue)}
 
 we used curby background image in the background.  
+
+learned css box sizing border box. and *. 
